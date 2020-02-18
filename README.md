@@ -1,2 +1,4 @@
 # C-SharpProjects
-Some C# assessments I did when I was first learning C#.These don't really require separate repositories so they'll be stored here. 
+Some C# assessments I did when I was first learning C#.
+
+* GnomeSort - Windows Forms Application that sorts a list of random numbers by using the Gnome Sort algorithm. The program uses an Array of 28 integers. After each iteration the program displays the Array eventually sorting throm smallest to largest integers. 
