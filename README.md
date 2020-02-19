@@ -10,7 +10,7 @@ Some C# assessments I did when I was first learning C#.
 ## Smaller Projects
 * SmallToLarge - Console Application that reads from the console a series of three integers and displays the smallest and largest of them
 * IntroToIteration - Console Application that will display all the numbers from 19 down to 7 inclusively. After each iteration (loop) the program displays the number.
-* IntegerDivisor - Console Application that will loop through a series of numbers and divide each one with a Divisor. If the division has no remainder then display the value
+* IntegerDivisor - Console Application that will loop through a series of numbers and divide each one with a Divisor. If the division has no remainder then display the value.
 
 
 
